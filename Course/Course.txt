@@ -1,0 +1,210 @@
+Course 1:
+Title: Introduction to Cybersecurity
+Description: Introduces the fundamentals of cybersecurity, focusing on its importance in the financial sector and the common threats organizations face.
+
+Module 1:
+Title: Introduction to Cybersecurity
+Description: Introduces the fundamentals of cybersecurity, focusing on its importance in the financial sector and the common threats organizations face.
+
+
+Lesson 1:
+Title: Importance of Cybersecurity in Finance
+Description: Explains why cybersecurity is critical in protecting financial data, systems, and customer trust.
+
+Lesson 2:
+Title: Common Cyber Threats in the Financial Sector
+Description: Introduces major threats like phishing, malware, and data breaches affecting financial institutions.
+
+
+
+
+
+
+Course 2:
+Title: Understanding Phishing
+Description: Explains what phishing is, the different types of phishing attacks, and the potential consequences of successful attacks.
+
+Module 1:
+Title: Phishing Fundamentals
+Description: Covers what phishing is and the different forms it can take.
+
+
+Lesson 1:
+Title: What is Phishing?
+Description: Defines phishing and explains how attackers trick users into sharing sensitive information.
+
+Lesson 2:
+Title: Types of Phishing Attacks (Email, SMS, Voice)
+Description: Covers different phishing methods including email scams, smishing, and vishing.
+
+
+Module 2:
+Title: Impact and Identification
+Description: Covers the consequences of phishing attacks and how to identify and avoid them.
+
+
+Lesson 1:
+Title: Impact of Successful Phishing Attacks
+Description: Highlights financial, operational, and reputational damage caused by phishing attacks.
+
+Lesson 2:
+Title: Identifying and Avoiding Phishing Threats
+Description: Learn to spot phishing attempts, identify suspicious links and messages, and avoid scams that target sensitive information.
+
+
+
+
+
+
+Course 3:
+Title: Malware, Security and Phishing Trends
+Description: Explores advanced cybersecurity threats and emphasizes staying updated with evolving phishing techniques and trends.
+
+Module 1:
+Title: Malware, Security and Phishing Trends
+Description: Explores advanced cybersecurity threats and emphasizes staying updated with evolving phishing techniques and trends.
+
+
+Lesson 1:
+Title: Understanding Malware and Ransomware
+Description: Introduces different types of malware and how ransomware works.
+
+Lesson 2:
+Title: Mobile Device Security and Phishing Course
+Description: Focuses on threats targeting mobile users like smishing and app-based scams.
+
+Lesson 3:
+Title: Staying Updated on Emerging Phishing Trends
+Description: Encourages continuous learning about new phishing techniques and threats.
+
+
+
+
+
+
+
+Course 4:
+Title: Responding to Phishing Incidents
+Description: Guides users on how to react to phishing attempts, report incidents, and recover from potential breaches.
+
+Module 1:
+Title: Responding to Phishing Incidents
+Description: Guides users on how to react to phishing attempts, report incidents, and recover from potential breaches.
+
+
+Lesson 1:
+Title: What to Do if You Suspect a Phishing Attempt
+Description: Outlines immediate steps to take when encountering a phishing attempt.
+
+Lesson 2:
+Title: Reporting Phishing Incidents
+Description: Explains how and where to report suspicious activities.
+
+Lesson 3:
+Title: Recovering from a Phishing Attack
+Description: Covers actions to secure accounts and minimize damage after an attack.
+
+
+
+
+
+
+Course 5:
+Title: Best Practices for Phishing Prevention
+Description: Provides practical strategies to prevent phishing attacks, including strong authentication, system security, and safe online behavior.
+
+Module 1:
+Title: Account and System Security
+Description: Covers securing accounts and systems through strong authentication and regular updates.
+
+
+Lesson 1:
+Title: Creating Strong Passwords and Using Multi-Factor Authentication
+Description: Teaches how to secure accounts with strong passwords and MFA.
+
+Lesson 2:
+Title: Keeping Software and Systems Updated
+Description: Explains the importance of updates in preventing vulnerabilities.
+
+
+Module 2:
+Title: Safe Online Behavior
+Description: Covers cautious handling of files and verification of sensitive requests.
+
+
+Lesson 1:
+Title: Being Cautious with Downloads and Attachments
+Description: Guides safe handling of files and email attachments.
+
+Lesson 2:
+Title: Verifying Requests for Sensitive Information
+Description: Shows how to confirm requests before sharing confidential data.
+
+
+
+
+Course 6:
+Title: Common Phishing Scenarios in Finance
+Description: Covers real-world phishing scenarios in financial environments, including fraud, scams, and impersonation attacks.
+
+Module 1:
+Title: Business and Payment Fraud
+Description: Covers impersonation and payment-related fraud schemes targeting organizations.
+
+
+Lesson 1:
+Title: CEO Fraud and Business Email Compromise (BEC)
+Description: Covers impersonation attacks targeting employees for financial fraud.
+
+Lesson 2:
+Title: Invoice and Payment Scams Course
+Description: Explains how attackers manipulate invoices to redirect payments.
+
+
+Module 2:
+Title: Consumer-Targeted Scams
+Description: Covers scams that target individuals through fake alerts and fraudulent offers.
+
+
+Lesson 1:
+Title: Fake Account Alerts and Security Notifications Course
+Description: Focuses on scam alerts that trick users into sharing sensitive data.
+
+Lesson 2:
+Title: Investment and Loan Scams
+Description: Highlights fraudulent financial offers designed to steal money.
+
+
+
+
+
+Course 7:
+Title: Recognizing Phishing Attempts
+Description: Teaches how to identify phishing attempts by analyzing emails, links, websites, and social engineering tactics.
+
+Module 1:
+Title: Email and Link Analysis
+Description: Covers verifying email authenticity and detecting harmful links and attachments.
+
+
+Lesson 1:
+Title: Analyzing Email Headers and Sender Information
+Description: Teaches how to verify email authenticity using headers and sender details.
+
+Lesson 2:
+Title: Identifying Suspicious Links and Attachments Course
+Description: Explains how to detect harmful links and malicious attachments.
+
+
+Module 2:
+Title: Websites and Social Engineering
+Description: Covers identifying fraudulent websites and the psychological tactics attackers use.
+
+
+Lesson 1:
+Title: Spotting Fake Websites and Login Pages
+Description: Shows how to identify fraudulent websites designed to steal credentials.
+
+Lesson 2:
+Title: Social Engineering Tactics Used in Phishing
+Description: Explains psychological manipulation techniques used by attackers.
