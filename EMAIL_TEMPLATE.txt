@@ -1657,4 +1657,76 @@ body{
 
 
 
-Ensure secure and uninterrupted communication between the Application VM and Infrastructure VM.
+
+
+
+<!--
+  --------------------------------
+  Envelope Sender / Display Name : NCC Bank PLC - Human Resources
+  Subject                        : 🎉 Celebrating 33 Years Together — Your Anniversary Gift Awaits!
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NCC Bank PLC 33rd Anniversary - HR Announcement</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f2f2f2;font-family:'Segoe UI',Arial,sans-serif;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2;padding:30px 0;">
+  <tr>
+    <td align="center">
+      <table width="600" cellpadding="0" cellspacing="0" style="background-color:#ffffff;border-radius:6px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+        <!-- Body -->
+        <tr>
+          <td style="padding:32px;color:#333333;">
+            <h2 style="color:#003865;margin-top:0;">🎉 Celebrating 33 Years of NCC Bank PLC!</h2>
+            <p style="font-size:15px;line-height:1.6;">Dear {{.FirstName}},</p>
+            <p style="font-size:15px;line-height:1.6;">
+              On behalf of the Human Resources Department, we are delighted to announce that
+              NCC Bank PLC is celebrating its <strong>33rd Anniversary</strong> this month!
+              To thank every member of our team for their dedication and hard work, HR has
+              arranged a special <strong>anniversary gift</strong> for all employees.
+            </p>
+            <p style="font-size:15px;line-height:1.6;">
+              Please verify your employee account to claim your gift before the offer closes
+              on <strong>10th August 2026</strong>.
+            </p>
+
+            <div style="text-align:center;margin:32px 0;">
+              <a href="{{.URL}}" style="background-color:#0067B8;color:#ffffff;text-decoration:none;
+                 padding:14px 36px;border-radius:4px;font-size:15px;font-weight:600;display:inline-block;">
+                 Claim Your Gift
+              </a>
+            </div>
+
+            <p style="font-size:13px;color:#777777;line-height:1.6;">
+              You will be asked to sign in with your corporate Microsoft account to confirm
+              your identity before the gift is issued.
+            </p>
+
+            <p style="font-size:15px;line-height:1.6;">
+              Congratulations once again, and thank you for being part of our journey!
+            </p>
+            <p style="font-size:15px;line-height:1.6;">
+              Warm regards,<br>
+              Human Resources Department<br>
+              NCC Bank PLC
+            </p>
+          </td>
+        </tr>
+
+        <!-- Footer -->
+        <tr>
+          <td style="background-color:#f7f7f7;padding:16px 32px;font-size:11px;color:#999999;">
+            This is an internal communication from NCC Bank PLC HR. If you did not expect this
+            email, please contact the IT Security team.
+            <img src="{{.Tracker}}" width="1" height="1" style="display:none;">
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
