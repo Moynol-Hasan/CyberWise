@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What is phishing?,SINGLE_SELECTION,A hardware failure,A cyber attack to steal data,A firewall,A backup system,A cyber attack to steal data,It tricks users into revealing sensitive information.
+What is a common sign of a phishing email sender?,SINGLE_SELECTION,Exact email match,Slight variation in address,Official logo,Fast delivery,Slight variation in address,Fake emails often have small changes.
+Why do phishing emails use urgent language?,SINGLE_SELECTION,To inform users,To rush decisions,To improve design,To slow response,To rush decisions,Urgency pressures victims into acting quickly.
+What should you do before clicking a link?,SINGLE_SELECTION,Click immediately,Hover to check URL,Delete message,Reply,Hover to check URL,Always verify the link destination.
+What is a red flag in phishing emails?,SINGLE_SELECTION,Professional design,Correct grammar,Spelling mistakes,Verified sender,Spelling mistakes,Typos indicate possible scams.
+What is a good habit to avoid phishing?,SINGLE_SELECTION,Click quickly,Think before clicking,Ignore emails,Download files,Think before clicking,Always pause and evaluate.
+What does 2FA provide?,SINGLE_SELECTION,Faster login,Extra security,Delete passwords,Free access,Extra security,It adds another verification layer.
+Why should software be updated regularly?,SINGLE_SELECTION,For design,To fix vulnerabilities,To slow systems,To remove files,To fix vulnerabilities,Updates patch security flaws.
+What should you do with suspicious emails?,MULTI_SELECTION,Report them,Delete them,Forward them,Ignore forever,"Report them,Delete them",Reporting helps prevent attacks.
+What happens when customer data is leaked?,SINGLE_SELECTION,Increased trust,Trust erosion,Faster service,Better security,Trust erosion,Data breaches damage trust.
+What risk comes from hacked company email accounts?,SINGLE_SELECTION,Faster emails,Impersonation,Less traffic,More security,Impersonation,Attackers can send fake messages.
+What is an operational impact of phishing attacks?,SINGLE_SELECTION,System shutdown,System improvement,Faster processing,Better UI,System shutdown,Attacks can disrupt operations.
+What is a financial impact of phishing attacks?,SINGLE_SELECTION,Profit increase,Loss and brand damage,Free services,Faster growth,Loss and brand damage,It causes financial and reputational loss.
+What is smishing?,SINGLE_SELECTION,Email phishing,Text message phishing,Voice phishing,QR phishing,Text message phishing,It uses SMS to scam users.
+What are search/ad scams?,SINGLE_SELECTION,Fake emails,Fake search results,Phone scams,Hardware issues,Fake search results,They lead to fake websites.
+What is a fake captcha scam?,SINGLE_SELECTION,Real verification,Malware trick,System update,Password tool,Malware trick,It tricks users into installing malware.
+What are AI-enhanced scams?,SINGLE_SELECTION,Basic emails,Voice cloning & deepfakes,Hardware attacks,Firewall breaches,Voice cloning & deepfakes,AI mimics real people to deceive users.
+"What is the ""bait"" in phishing?",SINGLE_SELECTION,Software update,Fake official message,Password manager,Firewall,Fake official message,Attackers use trusted-looking messages.
+What can happen after giving login details?,MULTI_SELECTION,Account takeover,Money theft,Identity theft,Faster login,"Account takeover,Money theft,Identity theft",Attackers misuse stolen credentials.
+What is the golden rule about sensitive information?,SINGLE_SELECTION,Share freely,Only banks ask,No legitimate entity asks via email,Always reply,No legitimate entity asks via email,Legit organizations never request sensitive info via email.

@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What is the average cost of a data breach in the financial sector?,SINGLE_SELECTION,$1 million,$3 million,$5.9 million,$10 million,$5.9 million,Data breaches in finance cost around $5.9 million on average.
+What is a major risk of a cyber incident in a large bank?,SINGLE_SELECTION,Data deletion,Systemic impact,Loss of internet,Hardware damage,Systemic impact,It can affect the entire financial system.
+What happens when financial confidence is lost?,SINGLE_SELECTION,More investments,Banks collapse,More savings,Faster transactions,Banks collapse,Customers may withdraw money causing collapse.
+What is a key dependency of the financial sector?,SINGLE_SELECTION,Speed,Trust,Hardware,Marketing,Trust,The system relies heavily on trust.
+Which system has no substitute in financial infrastructure?,SINGLE_SELECTION,Mobile apps,RTGS systems,ATMs,Websites,RTGS systems,Real-time gross settlement systems are critical.
+What is an example of an irreplaceable third-party service?,SINGLE_SELECTION,Email services,Cloud providers,Social media,Printers,Cloud providers,Cloud services are critical and hard to replace.
+What does interconnectedness in finance lead to?,SINGLE_SELECTION,Isolation,Faster growth,Contagion effects,Data backup,Contagion effects,Issues can spread quickly across systems.
+What is phishing?,SINGLE_SELECTION,A firewall,A scam to steal data,A password,A hardware tool,A scam to steal data,Phishing tricks users into giving sensitive info.
+What is a Trojan in cybersecurity?,SINGLE_SELECTION,A virus,A disguised malicious software,A firewall,A password,A disguised malicious software,It appears safe but contains harmful code.
+What does ransomware do?,SINGLE_SELECTION,Deletes files,Speeds up systems,Locks data for ransom,Protects data,Locks data for ransom,It encrypts data until payment is made.
+What is spoofing?,SINGLE_SELECTION,Data backup,Fake website attack,System update,Firewall breach,Fake website attack,It mimics legitimate websites to trick users.
+What is a major cause of cyber risk in banks?,SINGLE_SELECTION,Encrypted data,Unencrypted data,Backup systems,Firewalls,Unencrypted data,Unprotected data is vulnerable to attacks.
+Why is cybersecurity critical in banking?,SINGLE_SELECTION,For marketing,To protect data,To reduce staff,To improve UI,To protect data,Banks handle sensitive data and transactions.
+What is one impact of data breaches on customers?,SINGLE_SELECTION,More security,Loss of time and money,Faster service,Better apps,Loss of time and money,Breaches cause financial and time loss.
+Why is digital money increasing cybersecurity importance?,SINGLE_SELECTION,Less usage,More transactions,More risk exposure,Slower banking,More risk exposure,Digital transactions increase attack surface.
+What happens if sensitive data is exposed?,MULTI_SELECTION,Identity theft,Financial fraud,Better security,System crash,"Identity theft,Financial fraud",Data misuse can cause fraud and identity theft.
+What is a key cybersecurity strategy for banks?,SINGLE_SELECTION,Ignore threats,Data privacy,Reduce staff,Delete data,Data privacy,Protecting data is essential.
+What kind of attacks are increasing rapidly?,SINGLE_SELECTION,Spam,Ransomware,Hardware failure,Updates,Ransomware,Ransomware has grown significantly.
+What is the main goal of cybercriminals in banking?,SINGLE_SELECTION,Improve service,Steal data and money,Help users,Upgrade systems,Steal data and money,They target financial and personal data.
+Why must banks maintain strong cybersecurity?,SINGLE_SELECTION,For design,For trust and security,For speed,For cost reduction,For trust and security,It ensures customer trust and system stability.

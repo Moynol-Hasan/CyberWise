@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What is social engineering?,SINGLE_SELECTION,A software attack,A hardware issue,Manipulating people for information,A firewall,Manipulating people for information,It exploits human behavior to gain data.
+What does social engineering primarily exploit?,SINGLE_SELECTION,Software bugs,Network speed,Human emotions,Hardware failure,Human emotions,"It targets trust, fear, and curiosity."
+What is baiting in social engineering?,SINGLE_SELECTION,Fake emails,Infected USB drop,Phone scams,Password guessing,Infected USB drop,Baiting uses physical media to spread malware.
+What is pretexting?,SINGLE_SELECTION,Random attack,Fake scenario to gain trust,System crash,Firewall breach,Fake scenario to gain trust,Attackers create believable stories.
+What is quid pro quo in cyber attacks?,SINGLE_SELECTION,Free antivirus,Exchange of service for info,System update,Data backup,Exchange of service for info,Attackers offer help to get information.
+What is phishing?,SINGLE_SELECTION,Data backup,Fake communication attack,Hardware failure,Firewall breach,Fake communication attack,Phishing tricks users via messages.
+What should you check first to verify a website?,SINGLE_SELECTION,Images,URL design,Page color,Ads,URL design,URL reveals legitimacy clues.
+What does HTTPS indicate?,SINGLE_SELECTION,Fast speed,Encrypted connection,Free website,Old site,Encrypted connection,It ensures secure communication.
+What is a sign of a scam website?,MULTI_SELECTION,Poor grammar,Broken links,High-quality design,Low-resolution images,"Poor grammar,Broken links,Low-resolution images",Scam sites often look poorly made.
+What should a legitimate website have?,SINGLE_SELECTION,No contact info,Physical address,Random ads,No images,Physical address,Real businesses provide contact details.
+What should you do with trust seals?,SINGLE_SELECTION,Ignore them,Click to verify,Trust automatically,Delete page,Click to verify,Fake sites may use fake seals.
+What is a common phishing tactic?,SINGLE_SELECTION,Polite requests,Urgency threats,Slow response,Long emails,Urgency threats,Phishers create panic.
+What is a sign of phishing email greeting?,SINGLE_SELECTION,Your full name,Dear Customer,Company name,Custom message,Dear Customer,Generic greetings are suspicious.
+What should you do before clicking a link?,SINGLE_SELECTION,Click immediately,Hover to check URL,Delete email,Reply,Hover to check URL,Always verify destination.
+Which attachment types are risky?,MULTI_SELECTION,.zip files,.exe files,.pdf files,Images,".zip files,.exe files",Executable files often contain malware.
+What should you check in sender email?,SINGLE_SELECTION,Color,Domain spelling,Font size,Image,Domain spelling,Look for slight variations.
+What is an email header?,SINGLE_SELECTION,Message body,Email envelope data,Attachment,Spam filter,Email envelope data,It contains routing info.
+"What does the ""Received"" field show?",SINGLE_SELECTION,Message content,Server path,User name,File type,Server path,It tracks email route.
+What is a red flag in Return-Path?,SINGLE_SELECTION,Matching address,Mismatch with sender,Correct domain,Valid email,Mismatch with sender,Mismatch indicates spoofing.
+What authentication methods are used in email security?,MULTI_SELECTION,SPF,DKIM,DMARC,VPN,"SPF,DKIM,DMARC",These verify email authenticity.

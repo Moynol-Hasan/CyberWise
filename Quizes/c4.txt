@@ -1,0 +1,4 @@
+Duration: 20 minutes
+Passing Score: 75%
+Maximum Attempts: 2
+Course Level: Beginner

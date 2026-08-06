@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What should you do immediately after clicking a phishing link?,SINGLE_SELECTION,Turn off computer,Disconnect from internet,Restart browser,Delete files,Disconnect from internet,Disconnecting stops malware spread.
+Why should you disconnect from the internet after a phishing attack?,SINGLE_SELECTION,To save battery,To stop malware spreading,To delete files,To improve speed,To stop malware spreading,This prevents infection from spreading to other devices.
+What is the safest way to back up your data after a phishing attack?,SINGLE_SELECTION,Cloud backup,Email backup,External USB device,Online drive,External USB device,Offline backup avoids reconnecting to the internet.
+What should you do after backing up your device?,SINGLE_SELECTION,Delete everything,Scan for malware,Restart system,Ignore issue,Scan for malware,Malware scan helps detect threats.
+When should you call a professional after a phishing attack?,SINGLE_SELECTION,Always,Never,If no antivirus or unsure,Only for emails,If no antivirus or unsure,Experts help if you're unsure how to proceed.
+What should you change after a phishing attack?,MULTI_SELECTION,Passwords,Email themes,Account credentials,Wallpaper,"Passwords,Account credentials",Changing credentials secures accounts.
+What security feature should you enable after a phishing attack?,SINGLE_SELECTION,Firewall only,Two-factor authentication,Antivirus delete,Airplane mode,Two-factor authentication,MFA adds extra protection.
+What should you set up if sensitive information was exposed?,SINGLE_SELECTION,Email alerts,Fraud alerts,Game alerts,Spam filters,Fraud alerts,Fraud alerts help monitor misuse.
+Why is it important to keep learning about scams?,SINGLE_SELECTION,To save time,To avoid boredom,To recognize future attacks,To delete emails,To recognize future attacks,Awareness helps prevent future scams.
+What is phishing?,SINGLE_SELECTION,A type of hardware,A scam to steal data,A software update,A firewall,,A scam to steal data
+What is a common goal of phishing attacks?,SINGLE_SELECTION,Improve security,Steal personal information,Speed up systems,Reduce spam,Steal personal information,Attackers aim to steal sensitive data.
+Which of the following is a sign of phishing?,MULTI_SELECTION,Urgent language,Correct email,Random emojis,Request for personal info,"Urgent language,Request for personal info",Phishing often uses urgency and requests data.
+What should you do if you suspect a phishing email?,SINGLE_SELECTION,Reply to it,Report it,Delete it,Both B and C,Both B and C,Report and delete phishing attempts.
+What should you avoid clicking in phishing messages?,MULTI_SELECTION,Safe links,Fake links,Attachments,Official websites,"Fake links,Attachments",Avoid suspicious links and files.
+How do scammers often trick victims in phishing attacks?,SINGLE_SELECTION,Using games,Impersonating trusted entities,Sending gifts,Using ads,Impersonating trusted entities,They pretend to be trusted sources.
+What type of information do phishing attacks target?,MULTI_SELECTION,Usernames,Passwords,Credit card info,Favorite color,"Usernames,Passwords,Credit card info",Attackers target sensitive data.
+Why is password reuse dangerous?,SINGLE_SELECTION,Saves time,Improves security,Allows multiple accounts to be hacked,Reduces login time,Allows multiple accounts to be hacked,One breach can affect many accounts.
+What should you check in an email to detect phishing?,SINGLE_SELECTION,Color of text,Font size,Sender's full email address,Image quality,Sender's full email address,Look for inconsistencies in sender address.
+What should you do if unsure about an email's legitimacy?,SINGLE_SELECTION,Reply to email,Click link,Call official company number,Ignore forever,Call official company number,Verify using official channels.
+What may be needed if malware was downloaded?,SINGLE_SELECTION,New phone,Digital forensics analysis,Delete account,Change wallpaper,Digital forensics analysis,Experts analyze system damage.

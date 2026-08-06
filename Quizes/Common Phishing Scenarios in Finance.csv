@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What is CEO fraud?,SINGLE_SELECTION,A type of malware,A targeted phishing attack,A banking error,A software bug,A targeted phishing attack,CEO fraud is a targeted phishing attack where scammers impersonate executives.
+How do attackers make fake CEO emails look real?,SINGLE_SELECTION,Using exact same email,Changing one letter in email,Using phone calls only,Using physical letters,Changing one letter in email,Attackers slightly alter email addresses to trick recipients.
+Why do attackers create urgency in CEO fraud?,SINGLE_SELECTION,To confuse IT,To rush victims into action,To improve email design,To reduce suspicion,To rush victims into action,Urgency prevents employees from verifying requests.
+What is the safest way to verify a payment request from a boss?,SINGLE_SELECTION,Reply to email,Ignore it,Call the boss directly,Ask coworkers,Call the boss directly,Direct verification prevents falling for impersonation scams.
+What is invoice fraud?,SINGLE_SELECTION,Fake invoices only,Changing bank details on invoices,Deleting invoices,Printing errors,Changing bank details on invoices,Fraudsters modify bank details to redirect payments.
+Why is invoice fraud hard to detect in paper processes?,SINGLE_SELECTION,Too many emails,Too many invoices to check,Too few employees,Too much automation,Too many invoices to check,High volume makes manual verification difficult.
+Which team is usually responsible for detecting invoice fraud?,SINGLE_SELECTION,HR team,Finance team,Marketing team,IT support,Finance team,Finance teams typically handle invoice verification.
+What is a better approach to handling invoice fraud?,SINGLE_SELECTION,Only finance handles it,Ignore small invoices,All teams stay alert,Only IT handles it,All teams stay alert,Invoice fraud can affect all departments.
+What is e-invoicing?,SINGLE_SELECTION,Printing invoices,Manual billing,Electronic invoice processing,Audit system,Electronic invoice processing,E-invoicing automates invoice handling and checks.
+How does e-invoicing help prevent fraud?,MULTI_SELECTION,Checks VAT numbers,Checks supplier address,Deletes invoices,Ignores errors,"Checks VAT numbers,Checks supplier address",E-invoicing validates supplier information.
+What is a fraud alert scam?,SINGLE_SELECTION,A fake bank notification,A software update,A virus alert,A system error,A fake bank notification,Scammers pretend to be banks warning about fraud.
+Why did the scammer know about fraudulent transactions?,SINGLE_SELECTION,Guessing randomly,From data breaches,From employees,From ads,From data breaches,Data breaches provide real transaction details.
+What tactic made the scam more believable?,SINGLE_SELECTION,Using email only,Knowing transaction details,Sending letters,Using ads,Knowing transaction details,Real transaction info increases trust.
+What should you do instead of handing over your card?,SINGLE_SELECTION,Trust courier,Verify with bank directly,Ignore bank,Send card by mail,Verify with bank directly,Always confirm with your bank.
+What is a password manager used for?,SINGLE_SELECTION,Deleting passwords,Storing passwords securely,Sharing passwords,Hacking accounts,Storing passwords securely,Password managers store passwords safely.
+Why is multi-factor authentication important?,SINGLE_SELECTION,It speeds login,Adds extra security,Stores passwords,Removes passwords,Adds extra security,MFA adds another security layer.
+Which MFA method is weakest but still useful?,SINGLE_SELECTION,App-based MFA,SMS codes,Biometrics,Hardware keys,SMS codes,SMS is weaker but better than nothing.
+What is a good way to monitor identity safety?,SINGLE_SELECTION,Ignore reports,Check credit reports,Delete emails,Use only cash,Check credit reports,Credit reports help detect fraud early.
+Why should you avoid using debit cards for purchases?,SINGLE_SELECTION,They are slow,Hard to recover stolen money,They expire fast,They cost more,Hard to recover stolen money,Debit fraud is harder to recover.
+What should you do before investing money online?,MULTI_SELECTION,Check official website,Verify licensing,Trust ads,Ignore warnings,"Check official website,Verify licensing",Always verify investment sources first.

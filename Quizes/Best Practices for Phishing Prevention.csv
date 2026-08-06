@@ -1,0 +1,21 @@
+Question,Type,Option A,Option B,Option C,Option D,Correct Answer, Description
+What is the recommended minimum length for a strong password?,SINGLE_SELECTION,6 characters,8 characters,12 characters,20 characters,12 characters,Strong passwords should be at least 12 characters long.
+What is better than using random characters in a password?,SINGLE_SELECTION,Short passwords,Passphrases,Only numbers,Only symbols,Passphrases,Passphrases are longer and easier to remember.
+Which of the following should you avoid in passwords?,SINGLE_SELECTION,Random words,Birthdays,Passphrases,Long phrases,Birthdays,Common personal info is easy to guess.
+Why should you use different passwords for different accounts?,SINGLE_SELECTION,To confuse users,To save time,To reduce risk if one is compromised,To simplify login,To reduce risk if one is compromised,Unique passwords prevent multiple account breaches.
+What is the purpose of a password manager?,SINGLE_SELECTION,Delete passwords,Share passwords,Store passwords securely,Hack systems,Store passwords securely,Password managers securely store credentials.
+What does MFA stand for?,SINGLE_SELECTION,Multiple File Access,Multi-Factor Authentication,Main Firewall Access,Managed File Authorization,Multi-Factor Authentication,MFA adds extra security layers.
+"Which is an example of ""something you have"" in MFA?",SINGLE_SELECTION,Password,Fingerprint,Mobile device,PIN code,Mobile device,"A phone or token is ""something you have""."
+Which is an example of biometric authentication?,SINGLE_SELECTION,Password,SMS code,Fingerprint,Email,Fingerprint,Biometrics include fingerprint or face recognition.
+What should you do first when implementing MFA?,SINGLE_SELECTION,Update software,Identify critical systems,Delete accounts,Change passwords,Identify critical systems,Start with sensitive systems.
+What happens if software is outdated?,SINGLE_SELECTION,It runs faster,It becomes secure,It creates vulnerabilities,It deletes files,It creates vulnerabilities,Outdated software can be exploited by hackers.
+What should you enable to keep systems updated?,SINGLE_SELECTION,Manual updates,Auto updates,No updates,Random updates,Auto updates,Auto updates ensure security patches are applied.
+Why should you restart your computer regularly?,SINGLE_SELECTION,To delete files,To apply updates,To improve internet,To save battery,To apply updates,Restarting applies security patches.
+What should always be kept updated for protection?,MULTI_SELECTION,Firewall,Antivirus,Music apps,Games,"Firewall,Antivirus",Both protect against threats.
+What risk comes from email attachments?,SINGLE_SELECTION,Slow internet,Malware infection,File duplication,Storage issues,Malware infection,Attachments may contain malicious files.
+What should you do before opening an attachment?,SINGLE_SELECTION,Download immediately,Ignore it,Verify sender,Delete email,Verify sender,Always confirm sender identity.
+What should you do if a friend sends an unexpected attachment?,SINGLE_SELECTION,Open it immediately,Ignore forever,Verify through another method,Forward it,Verify through another method,Confirm through phone or message.
+What is the safest way to verify a request for sensitive data?,SINGLE_SELECTION,Reply to email,Click link,Contact via official channel,Ignore it,Contact via official channel,Always verify independently. :contentReference[oaicite:0]{index=0}
+What should you avoid clicking in suspicious messages?,MULTI_SELECTION,Official websites,Embedded links,Unknown attachments,Safe apps,"Embedded links,Unknown attachments",Avoid suspicious links and files.
+What should you do if a call asks for sensitive info?,SINGLE_SELECTION,Give info immediately,Hang up and verify number,Trust caller ID,Ignore warning,Hang up and verify number,Always verify using official contact.
+How do legitimate organizations handle sensitive data requests?,SINGLE_SELECTION,Pressure you,Send random emails,Respect verification,Threaten users,Respect verification,They allow verification without pressure.
